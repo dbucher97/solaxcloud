@@ -4,5 +4,7 @@
     "documentation": "https://www.solaxcloud.com",
     "dependencies": [],
     "codeowners": [],
-    "requirements": []
+    "requirements": [],
+    "iot_class": "local_polling",
+    "version": "0.1.0"
   }
