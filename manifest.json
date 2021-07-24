@@ -4,5 +4,6 @@
     "documentation": "https://www.solaxcloud.com",
     "dependencies": [],
     "codeowners": [],
-    "requirements": []
+    "requirements": [],
+    "version": "0.1"
   }
